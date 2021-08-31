@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(84, 86, 87);
+}
+
+h1 {
+    color: darkgray;
+
+    font-family: font-family;
+}
+
+p {
+    align-self: center;
+    color: black;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin: 12px;
+}
+
+.fitem {
+    border: 2px solid black;
+    margin: 12px;
+    height: 100px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: #007bb5;
+    color: white;
+}
+
+a.button {
+    text-align: center;
+
+    text-decoration: none;
+    color: initial;
+}
+
+.link {
+    margin: 100rem;
+    display: flex;
+    justify-content: last baseline;
+}
+
+.card {
+    background-color: hsl(210, 10%, 22%);
+}
