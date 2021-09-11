@@ -62,3 +62,16 @@ a.button {
 .card {
     background-color: hsl(210, 10%, 22%);
 }
+
+.hero {
+    padding: 2rem;
+    padding-bottom: 0;
+}
+
+.hero .hero-img {
+    max-width: 80%;
+    width: 765px;
+    height: 400px;
+    display: block;
+    margin: auto;
+}
